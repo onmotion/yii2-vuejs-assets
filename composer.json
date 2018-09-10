@@ -1,0 +1,28 @@
+{
+    "name": "onmotion/yii2-vuejs-assets",
+    "description": "Vue.js assets for Yii2 app",
+    "type": "yii2-extension",
+    "keywords": ["yii2","assets","vue","vuejs"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandr Kozhevnikov",
+            "email": "onmotion1@gmail.com",
+            "homepage": "http://kozhevnikov.me",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "npm-asset/vue": "*",
+        "npm-asset/vue-router": "*",
+        "npm-asset/vue-resource": "*",
+        "npm-asset/axios": "*",
+        "npm-asset/vue-notification": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "onmotion\\yii2-vuejs-assets\\": ""
+        }
+    }
+}
