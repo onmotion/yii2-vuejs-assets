@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "onmotion\\yii2-vuejs-assets\\": ""
+            "onmotion\\vue\\": ""
         }
     }
 }
