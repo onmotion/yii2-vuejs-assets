@@ -1,5 +1,10 @@
 Vue.js assets for Yii2
 ======================================
+[![Latest Stable Version](https://poser.pugx.org/onmotion/yii2-vuejs-assets/v/stable)](https://packagist.org/packages/onmotion/yii2-vuejs-assets)
+[![Total Downloads](https://poser.pugx.org/onmotion/yii2-vuejs-assets/downloads)](https://packagist.org/packages/onmotion/yii2-vuejs-assets)
+[![Monthly Downloads](https://poser.pugx.org/onmotion/yii2-vuejs-assets/d/monthly)](https://packagist.org/packages/onmotion/yii2-vuejs-assets)
+[![License](https://poser.pugx.org/onmotion/yii2-vuejs-assets/license)](https://packagist.org/packages/onmotion/yii2-vuejs-assets)
+
 
 Installation
 ------------
