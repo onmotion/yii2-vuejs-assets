@@ -21,4 +21,8 @@ class VueNotificationAsset extends AssetBundle
     public $js = [
     	'index.js'
     ];
+
+    public $depends = [
+        'onmotion\vue\VueAsset',
+    ];
 }

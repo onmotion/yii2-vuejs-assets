@@ -20,4 +20,8 @@ class VueRouterAsset extends AssetBundle
     public $js = [
         'vue-router.min.js'
     ];
+
+    public $depends = [
+        'onmotion\vue\VueAsset',
+    ];
 }

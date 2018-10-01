@@ -9,20 +9,19 @@ namespace onmotion\vue;
 
 use yii\web\AssetBundle;
 
-
 /**
- * Class VueResourceAsset
+ * Class VueRouterAsset
  * @package onmotion\vue
  */
-class VueResourceAsset extends AssetBundle
+class VueJsModalAsset extends AssetBundle
 {
-    public $sourcePath = '@npm/vue-resource/dist';
+    public $sourcePath = '@npm/vue-js-modal/dist';
 
     public $js = [
-    	'vue-resource.min.js'
+        'index.js'
     ];
+
     public $depends = [
         'onmotion\vue\VueAsset',
     ];
-
 }
