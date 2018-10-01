@@ -18,7 +18,8 @@
         "npm-asset/vue-router": "*",
         "npm-asset/vue-resource": "*",
         "npm-asset/axios": "*",
-        "npm-asset/vue-notification": "*"
+        "npm-asset/vue-notification": "*",
+        "npm-asset/vue-js-modal": "*"
     },
     "autoload": {
         "psr-4": {
