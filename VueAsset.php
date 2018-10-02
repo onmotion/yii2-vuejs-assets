@@ -18,6 +18,6 @@ class VueAsset extends AssetBundle
     public $sourcePath = '@npm/vue/dist';
 
     public $js = [
-    	'vue.min.js'
+    	YII_ENV_DEV ? 'vue.js' : 'vue.min.js'
     ];
 }
